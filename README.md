@@ -20,6 +20,8 @@
 - Building a portfolio
 
 ## 📫 Contacts:
+- LinkedIn: https://www.linkedin.com/in/tasnema-mustafa-a8b8a230b/
+- Gmail: mustafat@csp.edu / tasmus002@gmail.com
 
 ## ⚡ Fun fact:
 
