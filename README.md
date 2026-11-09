@@ -15,6 +15,9 @@
 - C#, C++ (learning)
 
 ## 🌱 Learning Goals:
+- Honing my coding skills
+- Learning game mechanics (mostly on Unity or Roblox Studio)
+- Building a portfolio
 
 ## 📫 Contacts:
 
